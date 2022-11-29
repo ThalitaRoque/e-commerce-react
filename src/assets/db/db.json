@@ -1,0 +1,51 @@
+{
+       "products" :
+       [
+        {
+          "id": 1,
+          "title": "Orange",
+          "price": 2,
+          "img": "https://res.cloudinary.com/dj376be4v/image/upload/v1668976584/samples/FRUITS/f-1_ts6kxl.jpg",
+          "description": "The orange has a sweet-tart taste and is commonly peeled and eaten fresh, or squeezed for its juice."
+         },
+
+         {
+                "id": 2,
+                "title": "BlueBerry",
+                "price": 4,
+                "img": "https://res.cloudinary.com/dj376be4v/image/upload/v1668976591/samples/FRUITS/f-2_dtawbq.jpg",
+                "description":"Blueberries are small round berries about 0.2 to 0.6 inches across. Their color can range from blue to purple. They are often eaten fresh but can also be enjoyed frozen, added to a wide variety of baked goods, or juiced or puree"
+               },
+
+         {
+                "id": 3,
+                "title": "Banana",
+                "price": 2,
+                "img": "https://res.cloudinary.com/dj376be4v/image/upload/v1668976597/samples/FRUITS/f-3_afmdw1.jpg",
+                "description":"Blueberries are small round berries about 0.2 to 0.6 inches across. Their color can range from blue to purple. They are often eaten fresh but can also be enjoyed frozen, added to a wide variety of baked goods, or juiced or puree" 
+              },
+        {
+                "id": 4,
+                "title": "Apple",
+                "price": 3,
+                "img": "https://res.cloudinary.com/dj376be4v/image/upload/v1668976600/samples/FRUITS/f-4_iorskb.jpg",
+                "description":"Blueberries are small round berries about 0.2 to 0.6 inches across. Their color can range from blue to purple. They are often eaten fresh but can also be enjoyed frozen, added to a wide variety of baked goods, or juiced or puree"
+               },
+               
+               {
+                "id": 5,
+                "title": "Mango",
+                "price": 5,
+                "img": "https://res.cloudinary.com/dj376be4v/image/upload/v1668976604/samples/FRUITS/f-5_mdry9h.jpg",
+                "description":"Blueberries are small round berries about 0.2 to 0.6 inches across. Their color can range from blue to purple. They are often eaten fresh but can also be enjoyed frozen, added to a wide variety of baked goods, or juiced or puree"
+               },
+               {
+                "id": 6,
+                "title": "Strawberry",
+                "price": 6,
+                "img": "https://res.cloudinary.com/dj376be4v/image/upload/v1668976609/samples/FRUITS/f-6_x9tgt5.jpg",
+                "description":"Blueberries are small round berries about 0.2 to 0.6 inches across. Their color can range from blue to purple. They are often eaten fresh but can also be enjoyed frozen, added to a wide variety of baked goods, or juiced or puree"
+               }
+  
+]
+}
